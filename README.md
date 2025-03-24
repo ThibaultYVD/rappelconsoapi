@@ -42,7 +42,7 @@ Si vous n'avez pas de fichier requirements.txt, vous pouvez simplement installer
 
 Lancez le script Python pour interroger l'API et afficher les résultats.
     ```bash
-    python main.py
+       python main.py
     ```
 
 
